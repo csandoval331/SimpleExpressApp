@@ -36,9 +36,12 @@
    [list of supported languages in .md](https://docs.readme.com/rdmd/docs/code-blocks)
 - Quoting text
     > \> adding quotes 
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
+- create unordered list by doing: [space] * | + | -
+- create ordered list by doing: [space] [any number] . exa 0.
+    
+    0. my
+    0. tiny
+    0. list
 
 
  
