@@ -34,8 +34,9 @@
     ```
    ````
    [list of supported languages in .md](https://docs.readme.com/rdmd/docs/code-blocks)
-- Quote text
+- Quoting text
     > \> adding quotes 
+- The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 
