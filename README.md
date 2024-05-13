@@ -5,6 +5,7 @@
  curl -X POST -H "Content-Type: application/json" -d '{"msg": "my-message"}' http://server-ip-addr/my-message
 ```
 # Cheatsheet for taking better README.md notes
+- [github notes for basic formating for md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Linux command for printing directory of folder
     ```console
     foo@bar:~$ tree -L 2
@@ -19,7 +20,22 @@
     │   └── routes.js
     └── temp.txt
     ```
- - [github notes for basic formating for md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## examples
+ - **\*\*BOLD\*\* \_\_text\_\_**
+ - *\*Italicized\* \_text\_*
+ - **_\*\*\_Bold and Italicized text\_\*\* and \_\_\*Bold and Italicized text\*\_\__**
+ - ***\*\*\*All Bold and Italicized\*\*\****
+ - ~~Strke Through~~ \~\~text\~\~
+ - ```
+    showing code
+    \~\~\~
+    \~\~\~
+   ```
+   ~~~
+    Hello world
+   ~~~
+
+ 
 
 
 # Notes
