@@ -5,20 +5,20 @@
  curl -X POST -H "Content-Type: application/json" -d '{"msg": "my-message"}' http://server-ip-addr/my-message
 ```
 # Cheatsheet for taking better README.md notes
-Linux command for printing directory of folder
-```console
-foo@bar:~$ tree -L 2
-├── index.js
-├── model
-│   └── model.js
-├── node_modules
-├── Notes.txt
-├── package.json
-├── package-lock.json
-├── routes
-│   └── routes.js
-└── temp.txt
-```
+- Linux command for printing directory of folder
+    ```console
+    foo@bar:~$ tree -L 2
+    ├── index.js
+    ├── model
+    │   └── model.js
+    ├── node_modules
+    ├── Notes.txt
+    ├── package.json
+    ├── package-lock.json
+    ├── routes
+    │   └── routes.js
+    └── temp.txt
+    ```
 
 
 # Notes
