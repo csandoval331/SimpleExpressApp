@@ -39,11 +39,9 @@
 - create unordered list by doing: [space] * | + | -
 - create ordered list by doing: [space] [any number] . exa 0.
     
-    0. my
-
-    1. tiny
-    
-    2. list
+    1. my
+    2. tiny
+    3. list
 
 
  
