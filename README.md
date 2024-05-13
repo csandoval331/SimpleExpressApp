@@ -26,14 +26,14 @@
  - **_\*\*\_Bold and Italicized text\_\*\* and \_\_\*Bold and Italicized text\*\_\__**
  - ***\*\*\*All Bold and Italicized\*\*\****
  - ~~Strke Through~~ \~\~text\~\~
- - ```
+ - ````
     showing code
-    \~\~\~
-    \~\~\~
-   ```
-   ~~~
-    Hello world
-   ~~~
+    ```(blank)|python|shell|bash|powershell|DOS
+    code
+    ```
+   ````
+
+
 
  
 
