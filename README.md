@@ -40,8 +40,8 @@
 - create ordered list by doing: [space] [any number] . exa 0.
     
     0. my
-    0. tiny
-    0. list
+    1. tiny
+    2. list
 
 
  
