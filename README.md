@@ -26,6 +26,7 @@
  - **_\*\*\_Bold and Italicized text\_\*\* and \_\_\*Bold and Italicized text\*\_\__**
  - ***\*\*\*All Bold and Italicized\*\*\****
  - ~~Strke Through~~ \~\~text\~\~
+ - <sup>super-script</sup> \<sup> text \</sup>
  - ````
     showing code
     ```(blank)|python|shell|bash|powershell|DOS|python
@@ -33,6 +34,8 @@
     ```
    ````
    [list of supported languages in .md](https://docs.readme.com/rdmd/docs/code-blocks)
+- Quote text
+    > \> adding quotes 
 
 
 
