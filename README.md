@@ -28,10 +28,11 @@
  - ~~Strke Through~~ \~\~text\~\~
  - ````
     showing code
-    ```(blank)|python|shell|bash|powershell|DOS
+    ```(blank)|python|shell|bash|powershell|DOS|python
     code
     ```
    ````
+   [list of supported languages in .md](https://docs.readme.com/rdmd/docs/code-blocks)
 
 
 
