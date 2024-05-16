@@ -7,19 +7,43 @@
 # Cheatsheet for taking better README.md notes
 - [github notes for basic formating for md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Linux command for printing directory of folder
-    ```console
-    foo@bar:~$ tree -L 2
-    ├── index.js
-    ├── model
-    │   └── model.js
-    ├── node_modules
-    ├── Notes.txt
-    ├── package.json
-    ├── package-lock.json
-    ├── routes
-    │   └── routes.js
-    └── temp.txt
-    ```
+        ```bash
+        foo@bar:~$ tree -L 2
+        ├── index.js
+        ├── model
+        │   └── model.js
+        ├── node_modules
+        ├── Notes.txt
+        ├── package.json
+        ├── package-lock.json
+        ├── routes
+        │   └── routes.js
+        └── temp.txt
+        ```
+    - tree for 'express-generator --view=pug my-app'
+    - recommended folder structure for webapps in which MVC is compartmentalized
+        ```
+        ├── app.js
+        ├── bin
+        │   └── www
+        ├── node_modules
+        │   └── .
+        ├── package.json
+        ├── package-lock.json
+        ├── public
+        │   ├── images
+        │   ├── javascripts
+        │   └── stylesheets
+        │       └── style.css
+        ├── routes
+        │   ├── index.js
+        │   └── users.js
+        └── views
+            ├── error.pug
+            ├── index.pug
+            └── layout.pug
+        ```
+
 ## examples
  - **\*\*BOLD\*\* \_\_text\_\_**
  - *\*Italicized\* \_text\_*
